@@ -1,0 +1,16 @@
+name: omlet
+id: ari:cloud:compass:1251ea31-ff80-46e8-82b7-b6c6e7a91992:component/cbbf5947-d606-4e93-ae28-83ad41919cc1/69aba6b3-6313-48da-a957-3eec86b2890b
+description: Component analytics for React
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/AdminJuwel191/omlet
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
